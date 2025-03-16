@@ -1,7 +1,7 @@
 # Week 5
 ## Learning Activities & Resources
 
-This week, I learned about child themes through the available material and was able to customise a theme.
+This week, I learned about child themes through the available material and was able to create and customise a child theme.
  
 #### Resources
 [CSS Essential Training](https://www.linkedin.com/learning/css-essential-training-22688362/) - A css refresher video I watched this week  
