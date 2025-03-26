@@ -16,5 +16,5 @@ I estimated 10 hours of my time was used this week on this subject including thi
 - I have also learned about include_once and require_once, after getting an error while doing the practical. As I have mistakenly re-included a file when I was trying out different pages.
 
 ## Career/Employability/Learning Insights
-- I found it easier to pick up another language because of what we have learned in our past programming subjects. 
-- I think that to be successful in the IT industry, one has to be consistently and effectively upskilling.
+- I found it easier to pick up another language because of what we have learned in our past programming subjects. This shows how foundational knowledge in programming concepts, logic, and problem-solving provides a transferable skill set. 
+- I think that to be successful in the IT industry, one has to commit to consistently and effectively upskilling, to grasp new and old concepts, as we could possibly be working in companies with modern initiatives, or businesses who choose to use tried-and-true legacy technologies.
