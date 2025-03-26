@@ -4,9 +4,9 @@
 This week, each member of the project team worked individually to test different development workflows.
  
 #### Resources
-[W3Schools PHP](https://www.w3schools.com/php/default.asp) - reference for code examples
-[PHP Docs](https://www.php.net/docs.php)
-[Learning PHP](https://www.linkedin.com/learning/learning-php-4)
+[W3Schools PHP](https://www.w3schools.com/php/default.asp) - reference for code examples  
+[PHP Docs](https://www.php.net/docs.php)  
+[Learning PHP](https://www.linkedin.com/learning/learning-php-4)  
 
 ## Estimated Hours
 I estimated 10 hours of my time was used this week on this subject including this practical.
